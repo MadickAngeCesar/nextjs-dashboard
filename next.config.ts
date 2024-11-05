@@ -9,13 +9,13 @@ const nextConfig: NextConfig = {
   },
   /* config options here */
   experimental: {
-    appDir: true,
-    fontLoaders: [
-      {
-        loader: '@next/font/google',
-        options: { subsets: ['latin'] },
-      },
-    ],
+    //appDir: true,
+    //fontLoaders: [
+    //  {
+    //    loader: '@next/font/google',
+    //    options: { subsets: ['latin'] },
+    //  },
+    //],
   },
 };
 
