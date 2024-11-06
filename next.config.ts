@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  experimental: {
+  /*experimental: {
     //appDir: true,
     //fontLoaders: [
     //  {
@@ -15,7 +15,7 @@ const nextConfig: NextConfig = {
     //    options: { subsets: ['latin'] },
     //  },
     //],
-  },
+  },*/
 };
 
 export default nextConfig;
